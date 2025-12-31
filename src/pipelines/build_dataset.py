@@ -5,7 +5,7 @@ from src.preprocessing.cleaner import  clean_jobs_text
 from src.skills.extractor import extract_skills
 
 
-
+from src.skills.index import build_inverted_index, search
 
 from pathlib import Path
 
@@ -19,6 +19,7 @@ df=normalize_jobs(df)
 df=clean_jobs_text(df)
 output_path = output_dir / "jobs_clean.csv"
 df["skills"] = df["text"].apply(extract_skills)
+
 df.to_csv(output_path, index=False)
 
 

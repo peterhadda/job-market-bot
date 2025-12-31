@@ -115,24 +115,132 @@ SKILL_ALIASES = {
     "git": ["git", "github", "gitlab", "bitbucket"],
 
     # =====================
-    # Non-Tech / Business Skills (outside tech)
+    # Marketing (Core)
     # =====================
-    "communication": ["communication", "written communication", "verbal communication", "presentation skills", "presentations"],
-    "stakeholder management": ["stakeholder management", "stakeholder engagement"],
-    "project management": ["project management", "project planning", "project coordination"],
-    "agile": ["agile", "scrum", "kanban"],
-    "leadership": ["leadership", "team leadership", "people management"],
-    "collaboration": ["collaboration", "teamwork", "cross-functional", "cross functional"],
-    "problem solving": ["problem solving", "analytical thinking", "critical thinking"],
-    "requirements gathering": ["requirements gathering", "requirements analysis", "business requirements"],
-    "business analysis": ["business analysis", "business analyst", "ba"],
-    "documentation": ["documentation", "technical writing", "report writing"],
-    "training": ["training", "mentoring", "coaching"],
-    "customer focus": ["customer focus", "client-facing", "client facing", "customer success"],
+    "marketing": ["marketing", "digital marketing"],
+    "content marketing": ["content marketing", "content strategy"],
+    "email marketing": ["email marketing", "email campaigns", "newsletter"],
+    "social media marketing": ["social media marketing", "social media", "smm"],
+    "seo": ["seo", "search engine optimization"],
+    "sem": ["sem", "search engine marketing"],
+    "ppc": ["ppc", "pay per click", "paid ads", "paid advertising"],
+    "growth marketing": ["growth marketing", "growth hacking"],
+    "brand management": ["brand management", "branding"],
+    "campaign management": ["campaign management", "marketing campaigns"],
+    "copywriting": ["copywriting", "marketing copy"],
+    "influencer marketing": ["influencer marketing", "influencers"],
+
+    # =====================
+    # Marketing Analytics / Growth
+    # =====================
+    "marketing analytics": ["marketing analytics", "campaign analytics"],
+    "attribution modeling": ["attribution modeling", "marketing attribution"],
+    "conversion rate optimization": ["conversion rate optimization", "cro"],
+    "funnel analysis": ["funnel analysis", "conversion funnel"],
+    "user acquisition": ["user acquisition", "customer acquisition"],
+    "retention": ["retention", "customer retention"],
+    "churn analysis": ["churn", "churn analysis"],
+    "lifetime value": ["lifetime value", "ltv", "clv"],
+    "customer segmentation": ["customer segmentation", "segmentation"],
+    "cohort analysis": ["cohort analysis"],
+
+    # =====================
+    # Product & Strategy
+    # =====================
+    "product management": ["product management", "product manager", "pm"],
+    "product analytics": ["product analytics"],
+    "roadmapping": ["roadmap", "product roadmap"],
+    "go-to-market": ["go to market", "gtm"],
+    "pricing strategy": ["pricing strategy", "pricing"],
+    "market research": ["market research", "competitive analysis"],
+    "user research": ["user research", "ux research"],
+
+    # =====================
+    # Sales / CRM / Revenue
+    # =====================
+    "sales": ["sales", "b2b sales", "b2c sales"],
+    "crm": ["crm", "customer relationship management"],
+    "salesforce": ["salesforce"],
+    "hubspot": ["hubspot"],
+    "lead generation": ["lead generation", "lead gen"],
+    "lead scoring": ["lead scoring"],
+    "pipeline management": ["pipeline management", "sales pipeline"],
+    "revenue analysis": ["revenue analysis", "revenue modeling"],
+    "forecasting": ["forecasting", "sales forecasting"],
+
+    # =====================
+    # Business & Operations
+    # =====================
+    "business strategy": ["business strategy", "strategic planning"],
+    "operations": ["operations", "business operations"],
+    "process improvement": ["process improvement", "process optimization"],
+    "kpis": ["kpi", "kpis", "key performance indicators"],
+    "okrs": ["okrs", "objectives and key results"],
+    "budgeting": ["budgeting", "budget management"],
+    "financial analysis": ["financial analysis", "financial modeling"],
+    "profitability": ["profitability", "margin analysis"],
+    "cost analysis": ["cost analysis"],
+
+    # =====================
+    # Consulting / Client-facing
+    # =====================
+    "consulting": ["consulting", "management consulting"],
+    "client management": ["client management", "client relations"],
+    "presentations": ["presentations", "executive presentations"],
+    "storytelling": ["storytelling", "data storytelling"],
+    "change management": ["change management"],
 
     # =====================
     # Compliance / Security (non-coding but common)
     # =====================
     "privacy": ["privacy", "data privacy", "pii", "gdpr"],
     "security": ["security", "information security", "infosec"],
+    # =====================
+    # Education / Teaching
+    # =====================
+    "teaching": ["teaching", "teaching experience"],
+    "education": ["education", "educational background"],
+    "teacher": ["teacher", "school teacher", "high school teacher"],
+    "lecturer": ["lecturer", "instructor"],
+    "professor": ["professor", "faculty member"],
+    "tutoring": ["tutoring", "tutor"],
+    "training": ["training", "employee training", "staff training"],
+    "curriculum development": ["curriculum development", "lesson planning"],
+    "classroom management": ["classroom management"],
+    "assessment": ["assessment", "student assessment", "grading"],
+
+    # =====================
+    # Graduate / Entry-Level
+    # =====================
+    "graduate": ["graduate", "recent graduate", "new graduate"],
+    "entry level": ["entry level", "entry-level", "junior level"],
+    "junior": ["junior", "junior role", "junior position"],
+    "internship": ["internship", "intern", "internship experience"],
+    "co-op": ["co-op", "coop", "cooperative education"],
+    "trainee": ["trainee", "graduate trainee"],
+    "apprenticeship": ["apprenticeship", "apprentice"],
+    "academic projects": ["academic projects", "university projects"],
+
+    # =====================
+    # Client / Customer Service
+    # =====================
+    "customer service": ["customer service", "customer support", "customer care"],
+    "client service": ["client service", "client services"],
+    "client support": ["client support"],
+    "customer success": ["customer success"],
+    "account management": ["account management", "account manager"],
+    "client relations": ["client relations", "client relationship management"],
+    "customer relations": ["customer relations"],
+    "help desk": ["help desk", "service desk"],
+    "technical support": ["technical support", "tech support"],
+    "call center": ["call center", "contact center"],
+
+    # =====================
+    # Hospitality / Service-Oriented Roles (optional but common)
+    # =====================
+    "hospitality": ["hospitality"],
+    "front desk": ["front desk", "reception"],
+    "guest services": ["guest services"],
+    "service excellence": ["service excellence"]
+
 }
