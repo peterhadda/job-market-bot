@@ -20,6 +20,8 @@ df=clean_jobs_text(df)
 output_path = output_dir / "jobs_clean.csv"
 df["skills"] = df["text"].apply(extract_skills)
 
+
 df.to_csv(output_path, index=False)
+
 
 

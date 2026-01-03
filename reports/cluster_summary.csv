@@ -1,0 +1,7 @@
+cluster_label,job_count,top_skills,top_terms
+Customer / Business,11303,"sales (3090), marketing (2426), customer service (1883), training (1731), operations (1380), social media marketing (807), security (466), consulting (457), education (454), account management (453)",
+Cluster 1,4785,"sql (532), marketing (473), java (407), product management (311), junior (279), operations (274), sales (267), training (233), security (207), linux (200)",
+Cluster 0,784,"customer service (302), training (297), education (110), operations (84), sales (72), security (48), excel (47), sql (32), junior (21), linux (20)",
+Cluster 3,428,"teacher (422), teaching (11)",
+Cluster 6,298,"teacher (296), cross validation (1)",
+Cluster 5,282,"apprenticeship (257), customer service (77), cross validation (70), training (20), marketing (16), sales (16), social media marketing (16), trainee (8), campaign management (6), operations (5)",
